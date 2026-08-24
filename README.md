@@ -2,6 +2,7 @@
 Welcome to my Data Analytics learning journey.
 
 ## Skills I'm Learning
+
 -Python
 -SQL
 -Microsoft Excel
