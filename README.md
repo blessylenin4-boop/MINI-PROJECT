@@ -1,47 +1,48 @@
-# Tracing the Carbon Impact
+Hospital Patient Data Analysis – Mini Project
 
-## Project Overview
+Project Overview
 
-Tracing the Carbon Impact is a data analytics project focused on exploring greenhouse gas emissions and understanding their environmental impact using data analysis and visualization.
+This mini project focuses on analyzing hospital patient data using Microsoft Excel and Power BI. The aim is to understand patient information, treatment costs, length of hospital stay, patient satisfaction, and treatment outcomes through data analysis and visualization.
 
-## Project Objectives
+Project Objectives
 
-- Analyze greenhouse gas emission data.
-- Explore emission factors across different categories.
-- Identify patterns and insights from the dataset.
-- Present findings through clear and informative dashboards.
+- Analyze hospital patient data.
+- Understand treatment costs across different medical conditions.
+- Examine patient length of stay and treatment outcomes.
+- Analyze patient satisfaction levels.
+- Create meaningful insights using Excel and Power BI.
 
-## Tools and Technologies
+Tools Used
 
-- **Python** — Data analysis and processing
-- **Google Colab** — Writing and running Python code
-- **Excel** — Dataset handling
-- **Data Visualization** — Presenting analytical insights
+- Microsoft Excel – Data cleaning, preprocessing, calculations, sorting, filtering, and Pivot Tables.
+- Microsoft Power BI – Interactive dashboards, KPI cards, charts, and slicers.
 
-## Project Files
+Project Files
 
-| File | Description |
-|---|---|
-| `Tracing_The_Carbon_Impact.ipynb` | Python notebook containing the project code |
-| `SupplyChainGHGEmissionFactors_v1.3.0_NAICS_CO2e_USD2022.xlsx` | Greenhouse gas emission factors dataset |
-| `Tracing_The_Carbon_Impact_Clean_Dashboards.pdf` | Project report and dashboard documentation |
+This repository contains the following mini project files:
 
-## Dataset
+- Hospital Mini Project Report – Project documentation and findings.
+- Raw Dataset – Original hospital patient data.
+- Cleaned Dataset – Prepared data used for analysis.
+- Power BI Dashboard – Dashboard and supporting project file.
 
-The project uses the Supply Chain Greenhouse Gas Emission Factors dataset to explore greenhouse gas emissions and related emission factors.
+Data Cleaning and Analysis
 
-## Project Workflow
+The dataset was prepared by removing duplicate records, handling missing values, correcting data formats, and organizing information for analysis. Excel functions such as COUNT, COUNTIF, and AVERAGE, along with Pivot Tables, were used to summarize the data.
 
-1. Load and inspect the dataset.
-2. Prepare the data for analysis.
-3. Analyze greenhouse gas emission factors using Python.
-4. Create visualizations to communicate the findings.
-5. Document the project and its results.
+Dashboard and Insights
 
-## Project Report
+Power BI was used to create a hospital patient analytics dashboard with KPI cards, charts, and slicers. The analysis helps explore differences in treatment costs across medical conditions and examine patient outcomes and satisfaction.
 
-The complete project report is available in the PDF file included in this repository.
+Conclusion
 
-## Repository Purpose
+This mini project demonstrates how Excel and Power BI can be used to clean, analyze, and visualize hospital patient data to support better understanding and data-driven decision-making.
 
-This project is part of my Data Analytics learning journey and demonstrates my practice in Python-based data analysis, dataset exploration, and data visualization.
+Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Microsoft Excel
+- Pivot Tables and Excel Functions
+- Power BI Dashboard Development
+- Data Visualization
+- Data Analysis and Interpretation
